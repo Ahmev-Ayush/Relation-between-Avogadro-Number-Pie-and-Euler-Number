@@ -1,4 +1,4 @@
-# Avogadro's Number: A Novel Relation with π, e, and Ahmev's Integer
+# Avogadro's Number: A Novel Relation with π, e, and an Integer
 
 ## Author
 **Ahmev-Ayush**
