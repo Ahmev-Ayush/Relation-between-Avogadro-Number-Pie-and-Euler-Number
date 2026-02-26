@@ -43,7 +43,7 @@ If you reference this finding, please cite using the
 
 ## License
 
-This work is licensed under [CC BY 4.0](LICENSE).
+This work is licensed under [CC BY 4.0](LICENSE.txt).
 You are free to share and adapt, but **must give appropriate credit**.
 
 ## Disclaimer
