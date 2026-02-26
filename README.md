@@ -17,6 +17,7 @@ $$
 Where:
 | Symbol | Value | Description              |
 |--------|-------|--------------------------|
+| $N_A$  | 6.02213210 × 10²³ mol⁻¹ | Avogadro's number (computed via this relation) |
 | $N_A$  | 6.02214076 × 10²³ mol⁻¹ | Avogadro's number (2019 SI exact) |
 | $A_{\text{int}}$ | 380   | **Ahmev's Integer** — the key integer in this relation |
 | $a$    | 1   | Integer exponent |

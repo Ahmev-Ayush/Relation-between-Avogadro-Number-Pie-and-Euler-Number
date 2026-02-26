@@ -63,7 +63,7 @@ experimental rather than derived from theory:
    surprising number of significant digits.
 
 5. **Actual Relation:** The discovery was not $N_A$ expressed directly as a combination
-   of an integer, π, and e — but rather the rearranged form:
+   of integers, π, and e — but rather the rearranged form:
 
    $$\frac{N_A \cdot \pi \cdot e^3}{10^{23}} = 380 \quad (\text{Ahmev's Integer})$$
 
