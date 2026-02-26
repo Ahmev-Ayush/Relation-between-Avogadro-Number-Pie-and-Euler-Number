@@ -14,6 +14,11 @@ $$
 N_A = \frac{k^a}{\pi^b \cdot e^c} \times 10^{23}
 $$
 
+The relation being:
+$$
+N_A = \frac{380}{\pi \cdot e^3} \times 10^{23}
+$$
+
 Where:
 | Symbol | Value | Description              |
 |--------|-------|--------------------------|
