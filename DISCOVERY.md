@@ -61,6 +61,11 @@ experimental rather than derived from theory:
    integer values — I eventually landed on a combination that matched
    $N_A$ to a surprising number of significant digits.
 
+5. **Actual Relation:** The discovery was not $N_A$ expressed directly as a combination
+   of integers, π, and e — but rather the rearranged form:
+
+   $$\frac{N_A \cdot \pi \cdot e^3}{10^{23}} = 380$$
+
 This was not a theoretical derivation; it was an act of **numerical
 exploration**, much in the spirit of Dirac's own playful curiosity. The
 discovery emerged from persistence, pattern recognition, and a genuine
