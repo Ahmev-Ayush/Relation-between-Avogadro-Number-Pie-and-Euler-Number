@@ -34,7 +34,7 @@ $$
 
 ## Numerical Verification
 
-The relation is accurate to **4 decimal places**, yielding a value of $N_A \approx 6.02213210 \times 10^{23} \text{ mol}^{-1}$. This represents an **Absolute error** of $\approx 8.66 \times 10^{-6}$ compared to the exact 2019 SI value ($6.02214076 \times 10^{23}$). See [`proofs/numerical_verification.py`](https://www.google.com/search?q=proofs/numerical_verification.py) for full-precision verification.
+The relation is accurate to **4 decimal places**, yielding a value of $N_A \approx 6.02213210 \times 10^{23} \text{ mol}^{-1}$. This represents an **Absolute error** of $\approx 8.66 \times 10^{-6}$ compared to the exact 2019 SI value ($6.02214076 \times 10^{23}$). See [`proofs/numerical_verification.py`](https://github.com/Ahmev-Ayush/Relation-between-Avogadro-Number-Pie-and-Euler-Number/blob/main/proofs_numerical_verification.py) for full-precision verification.
 
 ## How to Cite
 
