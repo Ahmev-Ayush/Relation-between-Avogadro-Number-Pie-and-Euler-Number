@@ -86,3 +86,8 @@ the public record.
   Chapter 2: *"Units and Measurements"*, Problem 2.33
   Published by: National Council of Educational Research and Training,
   New Delhi, India
+
+- **BIPM — Bureau International des Poids et Mesures (2019)**
+  *"The International System of Units (SI), 9th edition"*, Table 1
+  Exact defined value: $N_A = 6.02214076 \times 10^{23}\ \text{mol}^{-1}$
+  https://www.bipm.org/en/si-base-units/mole
