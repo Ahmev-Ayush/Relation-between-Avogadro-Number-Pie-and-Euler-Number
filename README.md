@@ -11,12 +11,7 @@ This repository documents a mathematical coincidence (or deeper relation)
 connecting Avogadro's number ($N_A$) with fundamental mathematical constants:
 
 $$
-N_A = \frac{k^a}{\pi^b \cdot e^c} \times 10^{23}
-$$
-
-The relation being:
-$$
-N_A = \frac{380}{\pi \cdot e^3} \times 10^{23}
+\frac{N_A}{10^{23}} = \frac{k^a}{\pi^b \cdot e^c} 
 $$
 
 Where:
@@ -27,6 +22,14 @@ Where:
 | $a$    | 1   | Integer exponent |
 | $b$    | 1   | Integer exponent of π |
 | $c$    | 3   | Integer exponent of e |
+
+Substituting these values:
+
+$$
+\frac{N_A}{10^{23}}  = \frac{380}{\pi \cdot e^3}
+$$
+
+
 
 ## Numerical Verification
 
