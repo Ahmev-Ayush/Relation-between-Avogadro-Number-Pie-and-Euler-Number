@@ -1,4 +1,4 @@
-# Avogadro's Number: A Novel Relation with π, e, and Integers
+# Avogadro's Number: A Novel Relation with π, e, and Ahmev's Integer
 
 ## Author
 **Ahmev-Ayush**
@@ -11,14 +11,14 @@ This repository documents a mathematical coincidence (or deeper relation)
 connecting Avogadro's number ($N_A$) with fundamental mathematical constants:
 
 $$
-\frac{N_A}{10^{23}} = \frac{k^a}{\pi^b \cdot e^c} 
+\frac{N_A}{10^{23}} = \frac{A_{\text{int}}^a}{\pi^b \cdot e^c} 
 $$
 
 Where:
 | Symbol | Value | Description              |
 |--------|-------|--------------------------|
 | $N_A$  | 6.02214076 × 10²³ mol⁻¹ | Avogadro's number (2019 SI exact) |
-| $k$    | 380   | Integer discovered in this work |
+| $A_{\text{int}}$ | 380   | **Ahmev's Integer** — the key integer in this relation |
 | $a$    | 1   | Integer exponent |
 | $b$    | 1   | Integer exponent of π |
 | $c$    | 3   | Integer exponent of e |

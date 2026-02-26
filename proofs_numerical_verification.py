@@ -3,7 +3,7 @@ Numerical Verification of the Avogadro Relation
 Author: Ahmev-Ayush
 Date: 2026-02-26
 
-Relation: N_A / 10^23 = 380 / (pi * e^3)
+Relation: N_A / 10^23 = 380 / (pi * e^3)  where 380 is Ahmev's Integer
 """
 
 from mpmath import mp, mpf, pi, e, log10, fabs
@@ -12,7 +12,7 @@ from mpmath import mp, mpf, pi, e, log10, fabs
 mp.dps = 100
 
 # ==== PARAMETERS ====
-k = mpf('380')  # Integer discovered in this work
+k = mpf('380')  # Ahmev's Integer
 a = 1           # Integer exponent of k
 b = 1           # Integer exponent of pi
 c = 3           # Integer exponent of e

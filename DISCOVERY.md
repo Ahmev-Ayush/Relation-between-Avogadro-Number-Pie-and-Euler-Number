@@ -58,13 +58,14 @@ experimental rather than derived from theory:
 
 4. **Process:** Through patient **hit-and-trial** — testing dozens of
    combinations of the form $k^a / (\pi^b \cdot e^c)$ with varying
-   integer values — I eventually landed on a combination that matched
-   $N_A$ to a surprising number of significant digits.
+   integer values — I eventually landed on **380** (hereafter called
+   **Ahmev's Integer**) — a combination that matched $N_A$ to a
+   surprising number of significant digits.
 
 5. **Actual Relation:** The discovery was not $N_A$ expressed directly as a combination
    of integers, π, and e — but rather the rearranged form:
 
-   $$\frac{N_A \cdot \pi \cdot e^3}{10^{23}} = 380$$
+   $$\frac{N_A \cdot \pi \cdot e^3}{10^{23}} = 380 \quad (\text{Ahmev's Integer})$$
 
 This was not a theoretical derivation; it was an act of **numerical
 exploration**, much in the spirit of Dirac's own playful curiosity. The
