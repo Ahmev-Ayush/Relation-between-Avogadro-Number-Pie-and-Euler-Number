@@ -25,11 +25,7 @@ Where:
 
 ## Numerical Verification
 
-The relation is accurate to **4 decimal places**, yielding a value of $N_A$
-correct up to $6.0221\mathbf{\_\_\_\_}$, with an absolute error of
-$\approx 8.655 \times 10^{-6}$ from the exact 2019 SI value. See
-[`proofs/numerical_verification.py`](proofs/numerical_verification.py)
-for full-precision verification.
+The relation is accurate to **4 decimal places**, yielding a value of $N_A \approx 6.0221 \times 10^{23} \text{ mol}^{-1}$. This represents a **relative error** of $\approx 8.655 \times 10^{-6}$ compared to the exact 2019 SI value ($6.02214076 \times 10^{23}$). See [`proofs/numerical_verification.py`](https://www.google.com/search?q=proofs/numerical_verification.py) for full-precision verification.
 
 ## How to Cite
 
