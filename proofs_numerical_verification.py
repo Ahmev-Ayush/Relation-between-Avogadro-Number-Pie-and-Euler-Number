@@ -42,3 +42,31 @@ if relative_error != 0:
 else:
     print("Matching sig. digits : EXACT (within precision)")
 print("=" * 60)
+
+# ==== CORRECTED RELATION WITH DELTA TERM ====
+# delta = 5 * sqrt(3) / 10^6
+from mpmath import sqrt
+
+delta = 5 * sqrt(mpf('3')) / mpf('1e6')
+N_A_corrected = (k**a / (pi**b * e**c) + delta) * mpf('1e23')
+
+absolute_error_corrected = fabs(N_A_exact - N_A_corrected)
+relative_error_corrected = absolute_error_corrected / N_A_exact
+
+print()
+print("=" * 60)
+print("CORRECTED RELATION — WITH DELTA TERM (5√3 / 10⁶)")
+print("Relation: N_A / 10^23 = 380 / (pi * e^3) + 5*sqrt(3)/10^6")
+print("=" * 60)
+print(f"N_A (exact, SI 2019) : {mp.nstr(N_A_exact, 11, strip_zeros=False)}")
+print(f"N_A (corrected)      : {mp.nstr(N_A_corrected, 11, strip_zeros=False)}")
+print(f"delta value          : {mp.nstr(delta, 9, strip_zeros=False)}")
+print(f"Absolute error       : {mp.nstr(absolute_error_corrected, 9, strip_zeros=False)}")
+print(f"Relative error       : {mp.nstr(relative_error_corrected, 9, strip_zeros=False)}")
+
+if relative_error_corrected != 0:
+    matching_digits_corrected = -int(log10(relative_error_corrected))
+    print(f"Matching sig. digits : ~{matching_digits_corrected}")
+else:
+    print("Matching sig. digits : EXACT (within precision)")
+print("=" * 60)
