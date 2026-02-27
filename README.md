@@ -5,6 +5,7 @@
 Date of Discovery: 24-02-2026
 Published: 26-02-2026
 
+
 ## The Relation
 
 This repository documents a mathematical coincidence (or deeper relation)
@@ -36,15 +37,32 @@ $$
 
 The relation is accurate to **4 decimal places**, yielding a value of $N_A \approx 6.02213210 \times 10^{23} \text{ mol}^{-1}$. This represents an **Absolute error** of $\approx 8.66 \times 10^{-6}$ compared to the exact 2019 SI value ($6.02214076 \times 10^{23}$). See [`proofs/numerical_verification.py`](https://github.com/Ahmev-Ayush/Relation-between-Avogadro-Number-Pie-and-Euler-Number/blob/main/proofs_numerical_verification.py) for full-precision verification.
 
-## How to Cite
 
-If you reference this finding, please cite using the
-[CITATION.cff](CITATION.cff) file in this repository.
+
+## Interesting Fact: Higher Accuracy with a Correction Term
+
+If a small correction term $\delta$ is added to the right-hand side of the relation:
+
+$$
+\frac{N_A}{10^{23}} = \frac{380}{\pi \cdot e^3} + \delta, \quad \text{where } \delta = \frac{5\sqrt{3}}{10^{6}}
+$$
+
+then $N_A$ achieves **8 decimal place accuracy**, matching the 2019 SI exact value $6.02214076 \times 10^{23} \text{ mol}^{-1}$.
+
+## Story of Discovery
+
+Curious about how this relation was found? Read [DISCOVERY.md](DISCOVERY.md) for the full story behind the discovery — the thought process, the steps, and the moment the pattern emerged.
+
 
 ## License
 
 This work is licensed under [CC BY 4.0](LICENSE.txt).
 You are free to share and adapt, but **must give appropriate credit**.
+
+## How to Cite (Not available right now)
+
+If you reference this finding, please cite using the
+[CITATION.cff](CITATION.cff) file in this repository.
 
 ## Disclaimer
 
