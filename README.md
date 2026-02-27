@@ -22,8 +22,8 @@ Where:
 | $N_A$  | 6.02214076 × 10²³ mol⁻¹ | Avogadro's number (2019 SI exact) |
 | $A_{\text{int}}$ | 380   | **Ahmev's Integer** — the key integer in this relation |
 | $a$    | 1   | Integer exponent |
-| $b$    | 1   | Integer exponent of π |
-| $c$    | 3   | Integer exponent of e |
+| $b$    | 1   | Integer exponent of π = 3.14159... |
+| $c$    | 3   | Integer exponent of e (euler's number = 2.71828...) |
 
 Substituting these values:
 
