@@ -1,4 +1,4 @@
-# Avogadro's Number: A Novel Relation with π, e, and an Integer
+# Avogadro's Number: A Novel Relation with π, e, and Integers
 
 ## Author
 **Ahmev-Ayush**
@@ -52,6 +52,18 @@ $$
 $$
 
 then $N_A$ achieves **8 decimal place accuracy**, matching the 2019 SI exact value $6.02214076 \times 10^{23} \text{ mol}^{-1}$.
+
+
+| Component | Nature |
+|-----------|--------|
+| 380 | Integer |
+| π | Transcendental (geometry, circles, periodicity) |
+| e | Transcendental (growth, calculus, probability) |
+| √3 | Algebraic irrational (geometry, hexagonal/triangular symmetry) |
+| 5, 10⁶, 10²³ | Powers of simple integers |
+
+The full formula uses **only** fundamental mathematical constants and small integers. No arbitrary decimals. No tuned floating-point parameters. That raises the "coincidence bar" significantly.
+
 
 ## Story of Discovery
 
