@@ -326,14 +326,7 @@ The Ahmev Relation provides a **concrete, quantitative example** of why mathemat
 
 5. **Does the quadratic form have a physical derivation?** Can it be derived from a partition function, path integral, or other first-principles calculation?
 
-### Publication Path
 
-- Document all numerical verifications to full precision
-- Test the formula against other physical constants
-- Submit to **arXiv** (math-ph or physics.gen-ph)
-- Consider journals: *Journal of Mathematical Physics*, *Foundations of Physics*, or *Mathematical Intelligencer*
-
----
 
 ## Appendix: Numerical Computations
 
