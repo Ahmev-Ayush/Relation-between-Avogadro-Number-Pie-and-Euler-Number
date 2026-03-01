@@ -165,7 +165,7 @@ $$\frac{N_A}{10^{23}} = \frac{380}{\dfrac{e_{charge}^2}{4\alpha\varepsilon_0\hba
 
 Simplifying:
 
-$$\boxed{\frac{N_A}{10^{23}} = \frac{1520\;\alpha\varepsilon_0\hbar c}{e_{charge}^2 \cdot e^3} + \frac{5\sqrt{3}}{10^6}}$$
+$$\boxed{\frac{N_A}{10^{23}} = \frac{1520\alpha\varepsilon_0\hbar c}{e_{charge}^2 \cdot e^3} + \frac{5\sqrt{3}}{10^6}}$$
 
 Where $1520 = 4 \times 380 = 2^4 \times 5 \times 19$.
 
@@ -196,7 +196,7 @@ $$\frac{N_A}{10^{23}} = \frac{1520\;\alpha\varepsilon_0\hbar c \cdot N_A^2}{F^2 
 
 Rearranging:
 
-$$\boxed{\frac{1520\;\alpha\varepsilon_0\hbar c}{F^2 \cdot e^3} \cdot N_A^2 \;-\; \frac{N_A}{10^{23}} \;+\; \frac{5\sqrt{3}}{10^6} = 0}$$
+$$\boxed{\frac{1520\alpha\varepsilon_0\hbar c}{F^2 \cdot e^3} \cdot N_A^2 - \frac{N_A}{10^{23}} + \frac{5\sqrt{3}}{10^6} = 0}$$
 
 ### Significance
 
