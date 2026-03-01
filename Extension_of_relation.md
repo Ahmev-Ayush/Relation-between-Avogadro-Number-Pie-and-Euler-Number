@@ -5,7 +5,11 @@
 
 ---
 
-> **Disclaimer:** The extensions and connections presented in this file are not my original work. I was exploring the internet and consulting AI tools — specifically **Gemini 3.1 Pro** and **Claude Opus 4.6** — to investigate whether my relation has any physical significance, and these are the interesting findings I came across during that exploration.
+> **Disclaimer:**
+> The core relation between $N_A$, $\pi$, and $e$ (including the correction term $\delta$) is my original work.
+> However, the extensions and connections presented in this file are not my original contributions.
+> I was exploring the internet and consulting AI tools — specifically **Gemini 3.1 Pro** and **Claude Opus 4.6** — to investigate whether my relation has any physical significance.
+> The findings documented here are the interesting results I came across during that exploration.
 
 ---
 
